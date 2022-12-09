@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+}
+
+.container {
+    width: 1224px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+
+.navbar button {
+    margin: 0;
+    padding: 15px 0;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
