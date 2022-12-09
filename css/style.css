@@ -15,6 +15,7 @@ body {
     display: flex;
     list-style: none;
     gap: 30px;
+    cursor: pointer;
 }
 
 .navbar button {
@@ -26,5 +27,10 @@ body {
     border: 0;
     border-radius: 15px;
     cursor: pointer;
+}
+
+.banner img {
+    width: 100%;
+    
 }
 
