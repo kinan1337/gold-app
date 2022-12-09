@@ -3,7 +3,7 @@ body {
 }
 
 .container {
-    width: 70%;
+    width: 1224px;
 }
 
 .navbar {
@@ -15,5 +15,16 @@ body {
     display: flex;
     list-style: none;
     gap: 30px;
+}
+
+.navbar button {
+    margin: 0;
+    padding: 15px 0;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border: 0;
+    border-radius: 15px;
+    cursor: pointer;
 }
 
