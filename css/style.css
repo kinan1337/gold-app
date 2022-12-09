@@ -31,6 +31,16 @@ body {
 
 .banner img {
     width: 100%;
-    
+}
+
+ footer .contact {
+    color: white;
+    list-style: none;
+    display: flex;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
 }
 
